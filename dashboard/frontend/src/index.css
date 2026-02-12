@@ -1,0 +1,31 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #0f1117;
+  color: #e1e4e8;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+:root {
+  --bg-primary: #0f1117;
+  --bg-card: #161b22;
+  --bg-card-hover: #1c2129;
+  --border: #30363d;
+  --text-primary: #e1e4e8;
+  --text-secondary: #8b949e;
+  --text-muted: #6e7681;
+  --accent-blue: #58a6ff;
+  --accent-green: #3fb950;
+  --accent-red: #f85149;
+  --accent-orange: #d29922;
+  --accent-purple: #bc8cff;
+  --regime1: #58a6ff;
+  --regime2: #f0883e;
+}
