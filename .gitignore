@@ -208,7 +208,6 @@ __marimo__/
 data
 notebooks/01_demo_bayes_changepoint.ipynb
 notebooks/02_demo_multiple_changepoints.ipynb
-outputs
 demo_data.py
 example_README.md
 EXPLANATION.md
