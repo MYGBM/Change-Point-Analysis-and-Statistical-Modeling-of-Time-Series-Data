@@ -422,8 +422,8 @@ MIT License — See [LICENSE](LICENSE) file for details.
 ## 📞 Contact
 
 **Mariam Gustavo**  
-10 Academy — Week 5 Capstone Project  
-Email: [contact via GitHub]  
+10 Academy — Week 11 Capstone Project  
+Email: yegetamariam@gmail.com  
 GitHub: [@MYGBM](https://github.com/MYGBM)  
 Repository: [Change-Point-Analysis-and-Statistical-Modeling-of-Time-Series-Data](https://github.com/MYGBM/Change-Point-Analysis-and-Statistical-Modeling-of-Time-Series-Data)
 
